@@ -2,7 +2,7 @@
   "name": "@arcanefinance/sdk",
   "license": "MIT",
   "version": "1.0.1",
-  "description": "🛠 An SDK for building applications on top of pancakeswap.",
+  "description": "🛠 An SDK for building applications on top of arcanefinance.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
@@ -10,7 +10,7 @@
   ],
   "repository": "https://github.com/arcanedefi/sdk.git",
   "keywords": [
-    "pancakeswap",
+    "arcanefinance",
     "ethereum"
   ],
   "module": "dist/sdk.esm.js",
